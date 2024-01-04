@@ -1,0 +1,14 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.autofetch": true,
+  "git.openRepositoryInParentFolders": "never",
+  "emmet.preferences": {},
+  "files.autoSave": "onFocusChange",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.run": "onSave",
+  "settingsSync.ignoredSettings": [],
+  "settingsSync.ignoredExtensions": []
+}
